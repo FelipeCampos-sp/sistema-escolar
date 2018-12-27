@@ -1,0 +1,45 @@
+
+h2{
+	font-size:2em;
+	text-align:center;
+    color:rgb(38, 166, 154); 
+}
+
+small{
+	font-size:1.2em;
+	color:#888;
+}
+
+main,footer{
+	margin:0 auto;
+
+	max-width:80%;
+}
+
+
+i.right {
+    float:;
+    margin-left:;
+}
+button, select {
+    text-transform: none;
+    padding:15px 10px;
+    width:20%;
+    transform: translate(50%, 50%);
+    background-color:#ee6e73;
+    border-color:#ee6e73;
+    color:#fff;
+    border-bottom: 5px solid #ee6e65;
+    cursor:pointer;
+}
+.menu {
+    color: #fff;
+    background-color:#4C0B5F;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+}
+
+
+
+   
